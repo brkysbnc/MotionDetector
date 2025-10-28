@@ -1,0 +1,23 @@
+# .NET build outputs
+bin/
+obj/
+
+# Visual Studio/IDE
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Publish folders
+**/publish/
+
+# Packages (if any local)
+*.nupkg
+*.snupkg
+
+# OS
+.DS_Store
+Thumbs.db
+
+
